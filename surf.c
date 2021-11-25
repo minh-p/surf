@@ -138,6 +138,7 @@ static SearchEngine searchengines[] = {
 	{ "google",   "http://www.google.com/search?q=%s"   },
 	{ "duck", "http://duckduckgo.com/?q=%s" },
 	{ "wiki", "http://en.wikipedia.org/w/index.php?search=%s" },
+	{ "reddit", "http://www.reddit.com/search/?q=%s" },
 };
 
 typedef struct {

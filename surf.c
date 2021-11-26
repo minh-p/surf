@@ -140,6 +140,7 @@ static SearchEngine searchengines[] = {
 	{ "wiki", "http://en.wikipedia.org/w/index.php?search=%s" },
 	{ "reddit", "http://www.reddit.com/search/?q=%s" },
 	{ "github", "http://github.com/search?q=%s" },
+	{ "yt", "http://www.youtube.com/results?q=%s" },
 };
 
 typedef struct {
